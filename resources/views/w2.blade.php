@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 Back to normal!</div>
+                <div class="title">Laravel 5 for dev</div>
             </div>
         </div>
     </body>
