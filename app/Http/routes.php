@@ -18,3 +18,5 @@ Route::get('/', function () {
 Route::get('/test', function () {
   return view('welcome', ['text' => 'TEST CLEAN URLS']);
 });
+
+Route::controller('a_test', 'ATestController');
