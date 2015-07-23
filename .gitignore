@@ -2,3 +2,5 @@
 Homestead.yaml
 .env
 github-post-receive.php
+.idea/*
+
